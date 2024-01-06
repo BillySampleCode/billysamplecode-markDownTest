@@ -33,4 +33,8 @@ RGB:
 HSL:
 `hsl(H,S,L)`
 `hsl(212, 92%, 45%)`
+Notes: 1) A supported color model cannot have any leading or trailing spaces within the backticks.
+2) The visualization of the color is only supported in issues, pull requests, and discussions.
 
+Links:
+This site was built using [https://github.com/billysamplecode](https://github.com/billysamplecode)
