@@ -54,6 +54,7 @@ Specifying the theme an image is shown to:
 </picture>
 
 Lists:
+Unordered Lists:
 - Unordered ListItem1
 - Unordered ListItem2
 - Unordered ListItem3
@@ -63,4 +64,9 @@ Lists:
 + Unordered ListItem7
 + Unordered ListItem8
 + Unordered ListItem9
+
+Ordered Lists:
+1. Ordered ListItem1
+1. Unordered ListItem2
+1. Unordered ListItem3
 
