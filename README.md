@@ -140,8 +140,8 @@ Alerts:
 
 Five types of alerts are available:
 
-[!NOTE]
-Useful information that users should know, even when skimming content.
+>[!NOTE]
+>Useful information that users should know, even when skimming content.
 
 [!TIP]
 Helpful advice for doing things better or more easily.
