@@ -38,3 +38,6 @@ Notes: 1) A supported color model cannot have any leading or trailing spaces wit
 
 Links:
 This site was built using [https://github.com/billysamplecode](https://github.com/billysamplecode)
+Section links:
+Relative links:
+[Example Relative links](root/filename.fileType)
