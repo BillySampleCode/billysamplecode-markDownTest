@@ -91,5 +91,5 @@ Nested Lists in comment editor on GitHub:
 Task lists:
 - [] TaskItem1
 - [x] TaskItem2MarkedWithX
-- [ ] \(TaskItem3ItemDescriptionBeginsWithAParenthesis,EscapeWith)
+- [ ] \(TaskItem3ItemDescriptionBeginsWithAParenthesis,EscapeWith\)
 
