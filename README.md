@@ -108,3 +108,19 @@ You can upload assets like images by dragging and dropping, selecting from a fil
 Using emoji:
 You can add emoji to your writing by typing :EMOJICODE:, a colon followed by the name of the emoji. For a full list of available emoji and codes see: [the Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+Paragraphs:
+You can create a new paragraph by leaving a blank line between lines of text.
+
+Footnotes:
+You can add footnotes to your content by using this bracket syntax:
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+  
