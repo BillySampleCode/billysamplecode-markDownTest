@@ -158,7 +158,8 @@ Five types of alerts are available:
 Hiding content with comments:
 
 You can tell GitHub to hide content from the rendered Markdown by placing the content in an HTML comment.
-\<!--InputToHideCommentsHere \-->\
-
+\<!--InputToHideCommentsHere\-->
 <!-- This content will not appear in the rendered Markdown -->
 
+Disabling Markdown rendering:
+Click Code at the top of the file to disable Markdown rendering and view the file's source instead. Disabling Markdown rendering enables you to use source view features, such as line linking, which is not possible when viewing rendered Markdown files.
