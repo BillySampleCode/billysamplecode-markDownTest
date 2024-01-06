@@ -39,5 +39,6 @@ Notes: 1) A supported color model cannot have any leading or trailing spaces wit
 Links:
 This site was built using [https://github.com/billysamplecode](https://github.com/billysamplecode)
 Section links:
+[# A first-level heading with Section links)](root/filename/fileType)
 Relative links:
-[Example Relative links](root/filename.fileType)
+[Relative links](root/filename.fileType)
