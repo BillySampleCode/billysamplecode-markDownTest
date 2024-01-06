@@ -158,7 +158,7 @@ Five types of alerts are available:
 Hiding content with comments:
 
 You can tell GitHub to hide content from the rendered Markdown by placing the content in an HTML comment.
-<!--\ -->\
+\<!--\ \-->\
 
 <!-- This content will not appear in the rendered Markdown -->
 
