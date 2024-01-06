@@ -93,3 +93,18 @@ Task lists:
 - [x] TaskItem2MarkedWithX
 - [ ] \(TaskItem3ItemDescriptionBeginsWithAParenthesis,EscapeWith\AtFront)
 
+Mentioning people and teams:
+@billysamplecode
+
+Referencing issues and pull requests:
+#TypeThisSymbol To bring up a list of suggested issues and pull requests within the repository by typing #
+
+Referencing external resources:
+Repository administor has ability to create custom autolink references to external resources.
+
+Uploading assets:
+You can upload assets like images by dragging and dropping, selecting from a file browser, or pasting. You can upload assets to issues, pull requests, comments, and .md files in your repository.
+
+Using emoji:
+You can add emoji to your writing by typing :EMOJICODE:, a colon followed by the name of the emoji. For a full list of available emoji and codes see: [the Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
