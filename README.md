@@ -66,7 +66,13 @@ Unordered Lists:
 + Unordered ListItem9
 
 Ordered Lists:
+1. Ordered ListItem3
+1. Ordered ListItem2
 1. Ordered ListItem1
-1. Unordered ListItem2
-1. Unordered ListItem3
+2. Ordered ListItem6
+2. Ordered ListItem5
+2. Ordered ListItem4
+3. Ordered ListItem9
+3. Ordered ListItem8
+3. Ordered ListItem7
 
