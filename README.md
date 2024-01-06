@@ -80,5 +80,16 @@ Nested Lists:
 1. First ListItem1
    - First NestedListItem1
      - Second NestedListItem2 
-  
+
+Nested Lists in comment editor on GitHub:
+100. First ListItem1
+    - First NestedListItem1
+100. First ListItem1
+    - First NestedListItem1
+      - Second NestedListItem2
+
+Task lists:
+- [] TaskItem1
+- [x] TaskItem2MarkedWithX
+- [ ] \(TaskItem3ItemDescriptionBeginsWithAParenthesis,EscapeWith)
 
