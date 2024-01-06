@@ -22,3 +22,15 @@ Quoting code:
 ```git status```
 ```git add```
 ```git commit```
+
+Supported color models:
+HEX:
+`#RRGGBB`
+`#0969DA`
+RGB:
+`rgb(R,G,B)`
+`rgb(9,105,218)`
+HSL:
+`hsl(H,S,L)`
+`hsl(212, 92%, 45%)`
+
